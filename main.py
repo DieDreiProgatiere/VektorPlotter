@@ -6,3 +6,7 @@ print('Hello All')
 print('Test')
 
 print('Hello')
+
+print('Hallo')
+
+print('Wilkommen')
