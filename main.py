@@ -1,2 +1,3 @@
-# Hello this is a Vektorplotter
-print('Hello World')
+#Here all modules are Imported.
+#Then a function is called (or an object created, starting the program)
+
