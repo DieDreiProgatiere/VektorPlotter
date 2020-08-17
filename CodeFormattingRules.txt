@@ -1,0 +1,6 @@
+A few rules about Code Formatting...
+
+How to write Vector/Vektor: "Vector"
+
+Language to Use for Comments/Names/etc.: English
+
