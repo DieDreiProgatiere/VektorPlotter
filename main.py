@@ -1,2 +1,2 @@
-# Hello this is a Vektorplotter
-
+#Here all modules are Imported.
+#Then a function is called (or an object created, starting the program)
